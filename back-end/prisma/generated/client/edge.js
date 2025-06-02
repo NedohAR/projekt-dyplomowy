@@ -175,7 +175,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/arsennedogibcenko/Desktop/red-planner-back-end/prisma/generated/client",
+      "value": "/Users/arsennedogibcenko/Documents/dyplom/back-end/prisma/generated/client",
       "fromEnvVar": null
     },
     "config": {
